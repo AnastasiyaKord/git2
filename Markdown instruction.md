@@ -35,3 +35,5 @@
 
 > **git branch -d <branch_name> - удалить ветку
 
+> **git log --oneline** - коротенький журнал
+
