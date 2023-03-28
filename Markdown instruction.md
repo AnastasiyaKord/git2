@@ -32,3 +32,6 @@
 > **git checkout -d <branch_name>** - создание ветки и переход по ней
 
 > **git commit -am "message"** - добавление файлов и отслеживание и создание коммита
+
+> **git branch -d <branch_name> - удалить ветку
+
