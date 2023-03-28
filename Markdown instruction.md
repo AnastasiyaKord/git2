@@ -43,3 +43,5 @@
 
 > **git branch <branch_name>** - создать новую ветку
 
+> **git checkout <branch_name>** - переход к другой ветке
+
